@@ -1,0 +1,650 @@
+[{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc75"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc76"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc77"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc78"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc79"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc5f"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc7a"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc60"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc7b"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc60"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc7c"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc60"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc7d"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc60"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc7e"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc60"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc7f"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc61"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc80"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc61"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc81"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc61"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc82"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc61"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc83"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc61"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc84"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc62"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc85"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc62"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc86"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc62"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc87"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc62"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc88"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc62"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc89"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc63"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc8a"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc63"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc8b"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc63"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc8c"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc63"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc8d"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc63"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc8e"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc64"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc8f"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc64"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc90"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc64"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc91"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc64"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc92"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc64"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc93"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc65"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc94"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc65"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc95"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc65"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc96"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc65"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc97"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc65"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc98"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc66"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc99"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc66"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc9a"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc66"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc9b"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc66"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc9c"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc66"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc9d"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc67"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc9e"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc67"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fc9f"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc67"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca0"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc67"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca1"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc67"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca2"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc68"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca3"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc68"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca4"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc68"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca5"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc68"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca6"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc68"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca7"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc69"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca8"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc69"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fca9"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc69"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcaa"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc69"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcab"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc69"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcac"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcad"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcae"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcaf"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcb0"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6a"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcb1"
+  },
+  "studioNumber": 1,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6b"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcb2"
+  },
+  "studioNumber": 2,
+  "type": "3D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6b"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcb3"
+  },
+  "studioNumber": 3,
+  "type": "2D",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6b"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcb4"
+  },
+  "studioNumber": 4,
+  "type": "IMAX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6b"
+  }
+},
+{
+  "_id": {
+    "$oid": "677a8d6390228a39d636fcb5"
+  },
+  "studioNumber": 5,
+  "type": "4DX",
+  "cinemaID": {
+    "$oid": "677a888690228a39d636fc6b"
+  }
+}]

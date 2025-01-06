@@ -1,0 +1,2502 @@
+[
+  {
+    "movieId": "677a9c58aec600a3cbc41733",
+    "studioId": "677a8d6390228a39d636fc75",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Moana 2: The Return of the Ocean"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc76",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc77",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc78",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc79",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc7a",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc7b",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc7c",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc7d",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc7e",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc7f",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fc80",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fc81",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fc82",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fc83",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fc84",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fc85",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fc86",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fc87",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fc88",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fc89",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fc8a",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fc8b",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174c",
+    "studioId": "677a8d6390228a39d636fc8c",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Dark Horizons"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174d",
+    "studioId": "677a8d6390228a39d636fc8d",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Ancient Warriors"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174e",
+    "studioId": "677a8d6390228a39d636fc8e",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "The Last Kingdom"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174f",
+    "studioId": "677a8d6390228a39d636fc8f",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "City of Shadows"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41750",
+    "studioId": "677a8d6390228a39d636fc90",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Rise of the Titans"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41751",
+    "studioId": "677a8d6390228a39d636fc91",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Quantum Revolution"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41752",
+    "studioId": "677a8d6390228a39d636fc92",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Echoes in Time"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41733",
+    "studioId": "677a8d6390228a39d636fc93",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Moana 2: The Return of the Ocean"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc94",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc95",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc96",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc97",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc9d",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc9e",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc9f",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fca0",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fca1",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fca2",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fca3",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fca4",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fca5",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fca6",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fcb1",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fcb2",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fcb3",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fcb4",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fcb5",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T10:00:00.000Z",
+    "endTime": "2023-01-10T12:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc75",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc76",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc77",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc78",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc79",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc7a",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc7b",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc7c",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc7d",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc7e",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fc7f",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fc80",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fc81",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fc82",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fc83",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fc84",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fc85",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fc86",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fc87",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fc88",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fc89",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fc8a",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174c",
+    "studioId": "677a8d6390228a39d636fc8b",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Dark Horizons"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174d",
+    "studioId": "677a8d6390228a39d636fc8c",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Ancient Warriors"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174e",
+    "studioId": "677a8d6390228a39d636fc8d",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Last Kingdom"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174f",
+    "studioId": "677a8d6390228a39d636fc8e",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "City of Shadows"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41750",
+    "studioId": "677a8d6390228a39d636fc8f",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Rise of the Titans"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41751",
+    "studioId": "677a8d6390228a39d636fc90",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Quantum Revolution"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41752",
+    "studioId": "677a8d6390228a39d636fc91",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Echoes in Time"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41733",
+    "studioId": "677a8d6390228a39d636fc92",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Moana 2: The Return of the Ocean"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc93",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc94",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc95",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc96",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc97",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc9d",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc9e",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc9f",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fca0",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fca1",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fca2",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fca3",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fca4",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fca5",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fca6",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fcb1",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fcb2",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fcb3",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fcb4",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fcb5",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T12:30:00.000Z",
+    "endTime": "2023-01-10T14:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc75",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc76",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc77",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc78",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc79",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc7a",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc7b",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc7c",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc7d",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fc7e",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fc7f",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fc80",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fc81",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fc82",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fc83",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fc84",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fc85",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fc86",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fc87",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fc88",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fc89",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174c",
+    "studioId": "677a8d6390228a39d636fc8a",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Dark Horizons"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174d",
+    "studioId": "677a8d6390228a39d636fc8b",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Ancient Warriors"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174e",
+    "studioId": "677a8d6390228a39d636fc8c",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Last Kingdom"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174f",
+    "studioId": "677a8d6390228a39d636fc8d",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "City of Shadows"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41750",
+    "studioId": "677a8d6390228a39d636fc8e",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Rise of the Titans"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41751",
+    "studioId": "677a8d6390228a39d636fc8f",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Quantum Revolution"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41752",
+    "studioId": "677a8d6390228a39d636fc90",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Echoes in Time"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41733",
+    "studioId": "677a8d6390228a39d636fc91",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Moana 2: The Return of the Ocean"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc92",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc93",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc94",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc95",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc96",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc97",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc9d",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc9e",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc9f",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fca0",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fca1",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fca2",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fca3",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fca4",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fca5",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fca6",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fcb1",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fcb2",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fcb3",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fcb4",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fcb5",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T15:00:00.000Z",
+    "endTime": "2023-01-10T17:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc75",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc76",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc77",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc78",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc79",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc7a",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc7b",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc7c",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fc7d",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fc7e",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fc7f",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fc80",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fc81",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fc82",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fc83",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fc84",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fc85",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fc86",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fc87",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fc88",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174c",
+    "studioId": "677a8d6390228a39d636fc89",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Dark Horizons"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174d",
+    "studioId": "677a8d6390228a39d636fc8a",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Ancient Warriors"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174e",
+    "studioId": "677a8d6390228a39d636fc8b",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Last Kingdom"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174f",
+    "studioId": "677a8d6390228a39d636fc8c",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "City of Shadows"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41750",
+    "studioId": "677a8d6390228a39d636fc8d",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Rise of the Titans"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41751",
+    "studioId": "677a8d6390228a39d636fc8e",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Quantum Revolution"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41752",
+    "studioId": "677a8d6390228a39d636fc8f",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Echoes in Time"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41733",
+    "studioId": "677a8d6390228a39d636fc90",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Moana 2: The Return of the Ocean"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc91",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc92",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc93",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc94",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc95",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc96",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc97",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc9d",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc9e",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc9f",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fca0",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fca1",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fca2",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fca3",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fca4",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fca5",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fca6",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fcb1",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fcb2",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fcb3",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fcb4",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fcb5",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T17:30:00.000Z",
+    "endTime": "2023-01-10T19:30:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc75",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc76",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc77",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc78",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc79",
+    "cinemaId": "677a888690228a39d636fc5f",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Plaza Senayan",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc7a",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc7b",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fc7c",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fc7d",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fc7e",
+    "cinemaId": "677a888690228a39d636fc60",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Grand Indonesia",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fc7f",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fc80",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fc81",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fc82",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fc83",
+    "cinemaId": "677a888690228a39d636fc61",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Lippo Mall Kemang",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fc84",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fc85",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fc86",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fc87",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174c",
+    "studioId": "677a8d6390228a39d636fc88",
+    "cinemaId": "677a888690228a39d636fc62",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Flix Mall of Indonesia",
+    "movieTitle": "Dark Horizons"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174d",
+    "studioId": "677a8d6390228a39d636fc89",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Ancient Warriors"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174e",
+    "studioId": "677a8d6390228a39d636fc8a",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "The Last Kingdom"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174f",
+    "studioId": "677a8d6390228a39d636fc8b",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "City of Shadows"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41750",
+    "studioId": "677a8d6390228a39d636fc8c",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Rise of the Titans"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41751",
+    "studioId": "677a8d6390228a39d636fc8d",
+    "cinemaId": "677a888690228a39d636fc63",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Surabaya",
+    "movieTitle": "Quantum Revolution"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41752",
+    "studioId": "677a8d6390228a39d636fc8e",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Echoes in Time"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41733",
+    "studioId": "677a8d6390228a39d636fc8f",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Moana 2: The Return of the Ocean"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41734",
+    "studioId": "677a8d6390228a39d636fc90",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Inang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41735",
+    "studioId": "677a8d6390228a39d636fc91",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Dilan 1983: Wo Ai Ni"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41736",
+    "studioId": "677a8d6390228a39d636fc92",
+    "cinemaId": "677a888690228a39d636fc64",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "New Star Cineplex Semarang",
+    "movieTitle": "Tebusan Dosa"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41737",
+    "studioId": "677a8d6390228a39d636fc93",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Bolehkah Sekali Saja Kumenangis"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41738",
+    "studioId": "677a8d6390228a39d636fc94",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Elang"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc41739",
+    "studioId": "677a8d6390228a39d636fc95",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "EVA: Pendakian Terakhir"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173a",
+    "studioId": "677a8d6390228a39d636fc96",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Zanna: Whisper of Volcano Isle"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173b",
+    "studioId": "677a8d6390228a39d636fc97",
+    "cinemaId": "677a888690228a39d636fc65",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinemaxx Bali Galeria",
+    "movieTitle": "Harbin"
+  },
+  {
+    "movieId": "677a9c58aec600a3cbc4173c",
+    "studioId": "677a8d6390228a39d636fc9d",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "When the Stars Gossip!"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173e",
+    "studioId": "677a8d6390228a39d636fc9e",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "The Last Wish"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc4173f",
+    "studioId": "677a8d6390228a39d636fc9f",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Fury Road 2"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41740",
+    "studioId": "677a8d6390228a39d636fca0",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Supernova: A Star's End"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41741",
+    "studioId": "677a8d6390228a39d636fca1",
+    "cinemaId": "677a888690228a39d636fc67",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Cinema 21 Tunjungan Plaza",
+    "movieTitle": "Haunted City"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41742",
+    "studioId": "677a8d6390228a39d636fca2",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Time Warp"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41743",
+    "studioId": "677a8d6390228a39d636fca3",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "The Dark Horizon"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41744",
+    "studioId": "677a8d6390228a39d636fca4",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Lost in Space"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41745",
+    "studioId": "677a8d6390228a39d636fca5",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Echoes of the Past"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41746",
+    "studioId": "677a8d6390228a39d636fca6",
+    "cinemaId": "677a888690228a39d636fc68",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "CGV Trans Studio Mall Makassar",
+    "movieTitle": "Beyond the Galaxy"
+  },
+  {
+    "movieId": "677a9d2caec600a3cbc41747",
+    "studioId": "677a8d6390228a39d636fcb1",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 1,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Vortex"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc41749",
+    "studioId": "677a8d6390228a39d636fcb2",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 2,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Silent Echo"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174a",
+    "studioId": "677a8d6390228a39d636fcb3",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 3,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Galactic Odyssey"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174b",
+    "studioId": "677a8d6390228a39d636fcb4",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 4,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "The Forsaken Island"
+  },
+  {
+    "movieId": "677a9d65aec600a3cbc4174c",
+    "studioId": "677a8d6390228a39d636fcb5",
+    "cinemaId": "677a888690228a39d636fc6b",
+    "startTime": "2023-01-10T20:00:00.000Z",
+    "endTime": "2023-01-10T22:00:00.000Z",
+    "studioNumber": 5,
+    "cinemaName": "Platinum Cineplex Malang Town Square",
+    "movieTitle": "Dark Horizons"
+  }
+]

@@ -1,0 +1,530 @@
+[{
+  "_id": {
+    "$oid": "677a888690228a39d636fc5f"
+  },
+  "name": "Cinema 21 Plaza Senayan",
+  "address": "Plaza Senayan, Jakarta, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.798,
+      -6.227
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc5f"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc5f"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc5f"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc5f"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc5f"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc60"
+  },
+  "name": "CGV Grand Indonesia",
+  "address": "Grand Indonesia, Jakarta, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.812,
+      -6.181
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc60"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc60"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc60"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc60"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc60"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc61"
+  },
+  "name": "Cinemaxx Lippo Mall Kemang",
+  "address": "Lippo Mall Kemang, Jakarta, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.828,
+      -6.29
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc61"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc61"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc61"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc61"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc61"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc62"
+  },
+  "name": "Flix Mall of Indonesia",
+  "address": "Mall of Indonesia, Jakarta, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      106.922,
+      -6.151
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc62"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc62"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc62"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc62"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc62"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc63"
+  },
+  "name": "Platinum Cineplex Surabaya",
+  "address": "Surabaya, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      112.752,
+      -7.257
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc63"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc63"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc63"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc63"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc63"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc64"
+  },
+  "name": "New Star Cineplex Semarang",
+  "address": "Semarang, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      110.375,
+      -7.005
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc64"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc64"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc64"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc64"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc64"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc65"
+  },
+  "name": "Cinemaxx Bali Galeria",
+  "address": "Bali Galeria, Denpasar, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      115.227,
+      -8.711
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc65"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc65"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc65"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc65"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc65"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc67"
+  },
+  "name": "Cinema 21 Tunjungan Plaza",
+  "address": "Tunjungan Plaza, Surabaya, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      112.737,
+      -7.257
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc67"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc67"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc67"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc67"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc67"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc68"
+  },
+  "name": "CGV Trans Studio Mall Makassar",
+  "address": "Trans Studio Mall, Makassar, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      119.417,
+      -5.134
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc68"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc68"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc68"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc68"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc68"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "677a888690228a39d636fc6b"
+  },
+  "name": "Platinum Cineplex Malang Town Square",
+  "address": "Malang Town Square, Malang, Indonesia",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      112.625,
+      -7.979
+    ]
+  },
+  "createdAt": "2023-01-10T10:00:00Z",
+  "updatedAt": "2023-01-10T10:00:00Z",
+  "studios": [
+    {
+      "studioNumber": 1,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc6b"
+      }
+    },
+    {
+      "studioNumber": 2,
+      "type": "3D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc6b"
+      }
+    },
+    {
+      "studioNumber": 3,
+      "type": "2D",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc6b"
+      }
+    },
+    {
+      "studioNumber": 4,
+      "type": "IMAX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc6b"
+      }
+    },
+    {
+      "studioNumber": 5,
+      "type": "4DX",
+      "cinemaID": {
+        "$oid": "677a888690228a39d636fc6b"
+      }
+    }
+  ]
+}]

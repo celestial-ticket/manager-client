@@ -1,0 +1,518 @@
+[{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41733"
+  },
+  "thumbnail": "https://example.com/moana2-thumbnail.jpg",
+  "title": "Moana 2: The Return of the Ocean",
+  "duration": 120,
+  "genre": "Animation, Adventure Fantasy",
+  "synopsis": "Moana kembali berlayar dalam petualangan epik untuk menyelamatkan desanya dari ancaman baru. Kali ini, ia harus menjelajahi lautan yang lebih luas, menemukan rahasia keluarganya, dan bekerja sama dengan teman lama serta sekutu baru.",
+  "cast": [
+    "\"Auli'i Cravalho",
+    "Dwayne Johnson",
+    "Temuera Morrison",
+    "Rachel House"
+  ],
+  "ageRating": "All Ages",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41734"
+  },
+  "thumbnail": "https://i.pinimg.com/736x/4c/e0/5b/4ce05be3c9b7071f98b59b91016dac1c.jpg",
+  "title": "Inang",
+  "duration": 120,
+  "genre": "Horor, Thriller",
+  "synopsis": "Film horor yang menceritakan tentang seorang ibu yang berjuang untuk mencari anaknya setelah kecelakaan yang menimpa sang anak.",
+  "cast": [
+    "Putri Marino",
+    "Happy Salma",
+    "Haru Sandra"
+  ],
+  "ageRating": "17+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41735"
+  },
+  "thumbnail": "https://i.pinimg.com/736x/1b/75/51/1b75516054edcfbb0ae1bc4ad32e1a1c.jpg",
+  "title": "Dilan 1983: Wo Ai Ni",
+  "duration": 120,
+  "genre": "Drama, Romantis",
+  "synopsis": "Prekuel dari film Dilan yang menceritakan masa kecil Dilan pada tahun 1983.",
+  "cast": [
+    "Muhammad Adhiyat",
+    "Keanu Azka",
+    "Ferdinand",
+    "Adzana AshelJKT 48",
+    "Zayyan Sakha",
+    "Muzakki",
+    "Shania Diva",
+    "Cleo Haura",
+    "Jonathan Alvaro",
+    "Daan Aria"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41736"
+  },
+  "thumbnail": "https://example.com/poster4.jpg",
+  "title": "Tebusan Dosa",
+  "duration": 120,
+  "genre": "Horor, Thriller",
+  "synopsis": "Mengisahkan tentang seorang ibu yang mencari anaknya yang hilang setelah kecelakaan.",
+  "cast": [
+    "Putri Marino",
+    "Happy Salma",
+    "Haru Sandra"
+  ],
+  "ageRating": "17+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41737"
+  },
+  "thumbnail": "https://example.com/poster5.jpg",
+  "title": "Bolehkah Sekali Saja Kumenangis",
+  "duration": 120,
+  "genre": "Drama, Romantis",
+  "synopsis": "Film yang menceritakan kisah cinta yang penuh emosi dan perjuangan.",
+  "cast": [
+    "Lutesha",
+    "Muhammad Khan",
+    "Della Dartyan"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41738"
+  },
+  "thumbnail": "https://example.com/poster6.jpg",
+  "title": "Elang",
+  "duration": 120,
+  "genre": "Drama, Olahraga",
+  "synopsis": "Film yang mengangkat sisi gelap di balik dunia sepakbola Indonesia.",
+  "cast": [
+    "Reza Rahadian",
+    "Marsha Timothy",
+    "Tio Pakusadewo"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc41739"
+  },
+  "thumbnail": "https://example.com/poster7.jpg",
+  "title": "EVA: Pendakian Terakhir",
+  "duration": 120,
+  "genre": "Drama, Petualangan",
+  "synopsis": "Terinspirasi dari kisah nyata pendaki yang hilang di Sulawesi Selatan pada tahun 2021.",
+  "cast": [
+    "Adinia Wirasti",
+    "Ario Bayu",
+    "Tio Pakusadewo"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc4173a"
+  },
+  "thumbnail": "https://example.com/poster8.jpg",
+  "title": "Zanna: Whisper of Volcano Isle",
+  "duration": 120,
+  "genre": "Animasi, Petualangan",
+  "synopsis": "Film animasi lokal yang membawa petualangan seru ke gunung berapi.",
+  "cast": [
+    "Vega Darwanti",
+    "Deddy Mizwar",
+    "Titi Kamal"
+  ],
+  "ageRating": "All Ages",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc4173b"
+  },
+  "thumbnail": "https://example.com/poster9.jpg",
+  "title": "Harbin",
+  "duration": 120,
+  "genre": "Drama, Biografi",
+  "synopsis": "Film biopik Korea yang sukses meraih 3 juta penonton dalam 9 hari tayang.",
+  "cast": [
+    "Hyun Bin",
+    "Jeon Yeo-been",
+    "Park Jung-min"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9c58aec600a3cbc4173c"
+  },
+  "thumbnail": "https://example.com/poster10.jpg",
+  "title": "When the Stars Gossip!",
+  "duration": 120,
+  "genre": "Drama, Romantis",
+  "synopsis": "Drama Korea yang dibintangi oleh Lee Min Ho, menceritakan kisah cinta yang penuh misteri.",
+  "cast": [
+    "Lee Min Ho",
+    "Kim Go-eun",
+    "Park Seo-jun"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Now Showing"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc4173e"
+  },
+  "thumbnail": "https://example.com/poster1.jpg",
+  "title": "The Last Wish",
+  "duration": 120,
+  "genre": "Aksi, Fantasi",
+  "synopsis": "Seorang pejuang mencari cara untuk mengubah takdirnya dengan menggunakan kekuatan mistis untuk mengalahkan musuh yang menantang dunia.",
+  "cast": [
+    "Tom Holland",
+    "Zendaya",
+    "Chris Hemsworth"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc4173f"
+  },
+  "thumbnail": "https://example.com/poster2.jpg",
+  "title": "Fury Road 2",
+  "duration": 120,
+  "genre": "Aksi, Petualangan",
+  "synopsis": "Melanjutkan kisah Mad Max yang terjebak dalam dunia yang semakin kacau dan penuh dengan konflik besar.",
+  "cast": [
+    "Charlize Theron",
+    "Tom Hardy",
+    "Mad Max"
+  ],
+  "ageRating": "17+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41740"
+  },
+  "thumbnail": "https://example.com/poster3.jpg",
+  "title": "Supernova: A Star's End",
+  "duration": 120,
+  "genre": "Drama, Sains Fiksi",
+  "synopsis": "Ketika bintang terdekat dengan bumi meledak, para ilmuwan berusaha untuk menyelamatkan umat manusia dengan teknologi canggih.",
+  "cast": [
+    "Emma Watson",
+    "Dwayne Johnson",
+    "Will Smith"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41741"
+  },
+  "thumbnail": "https://example.com/poster4.jpg",
+  "title": "Haunted City",
+  "duration": 120,
+  "genre": "Horor, Thriller",
+  "synopsis": "Sekelompok teman menemukan kota yang telah lama terlupakan, namun mereka tidak tahu bahwa kota itu dihantui oleh roh-roh yang marah.",
+  "cast": [
+    "Natalie Portman",
+    "Leonardo DiCaprio",
+    "Rami Malek"
+  ],
+  "ageRating": "17+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41742"
+  },
+  "thumbnail": "https://example.com/poster5.jpg",
+  "title": "Time Warp",
+  "duration": 120,
+  "genre": "Drama, Fiksi Ilmiah",
+  "synopsis": "Seorang peneliti menemukan cara untuk menjelajahi waktu dan mencoba mencegah kejadian-kejadian tragis dari masa lalu.",
+  "cast": [
+    "Javier Bardem",
+    "Cate Blanchett",
+    "Michael B. Jordan"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41743"
+  },
+  "thumbnail": "https://example.com/poster6.jpg",
+  "title": "The Dark Horizon",
+  "duration": 120,
+  "genre": "Aksi, Misteri",
+  "synopsis": "Kisah seorang detektif yang mencari jawaban di balik misteri pembunuhan yang terjadi di sebuah kota besar dengan banyak konspirasi.",
+  "cast": [
+    "Ryan Reynolds",
+    "Chris Pratt",
+    "Scarlett Johansson"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41744"
+  },
+  "thumbnail": "https://example.com/poster7.jpg",
+  "title": "Lost in Space",
+  "duration": 120,
+  "genre": "Petualangan, Sains Fiksi",
+  "synopsis": "Para penjelajah ruang angkasa yang tersesat berusaha mencari jalan pulang, tetapi mereka menemukan peradaban yang lebih maju dan penuh misteri.",
+  "cast": [
+    "Zoe Saldana",
+    "Matt Damon",
+    "Emma Stone"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41745"
+  },
+  "thumbnail": "https://example.com/poster8.jpg",
+  "title": "Echoes of the Past",
+  "duration": 120,
+  "genre": "Drama, Sejarah",
+  "synopsis": "Menceritakan kisah seorang anak yang berusaha mengungkap rahasia keluarga yang telah terpendam selama bertahun-tahun.",
+  "cast": [
+    "Nicole Kidman",
+    "Keanu Reeves",
+    "Harrison Ford"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41746"
+  },
+  "thumbnail": "https://example.com/poster9.jpg",
+  "title": "Beyond the Galaxy",
+  "duration": 120,
+  "genre": "Aksi, Petualangan",
+  "synopsis": "Kisah para petualang yang melakukan perjalanan melintasi galaksi untuk menemukan planet yang hilang yang membawa harapan bagi umat manusia.",
+  "cast": [
+    "Chris Hemsworth",
+    "Will Smith",
+    "Margot Robbie"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d2caec600a3cbc41747"
+  },
+  "thumbnail": "https://example.com/poster10.jpg",
+  "title": "Vortex",
+  "duration": 120,
+  "genre": "Thriller, Misteri",
+  "synopsis": "Seorang ahli fisika terjebak dalam eksperimen berbahaya yang menyebabkan waktu dan ruang bercampur, mempengaruhi kenyataan sekitar.",
+  "cast": [
+    "Tom Hiddleston",
+    "Emma Watson",
+    "John Boyega"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc41749"
+  },
+  "thumbnail": "https://example.com/poster11.jpg",
+  "title": "The Silent Echo",
+  "duration": 120,
+  "genre": "Drama, Thriller",
+  "synopsis": "Seorang wanita muda berusaha mengungkap misteri di balik suara-suara aneh yang mengganggunya, yang ternyata terkait dengan masa lalunya.",
+  "cast": [
+    "Anya Taylor-Joy",
+    "Ethan Hawke",
+    "Viola Davis"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc4174a"
+  },
+  "thumbnail": "https://example.com/poster12.jpg",
+  "title": "Galactic Odyssey",
+  "duration": 120,
+  "genre": "Aksi, Petualangan, Fiksi Ilmiah",
+  "synopsis": "Sekelompok astronot berjuang untuk menyelamatkan umat manusia saat mereka menemukan ancaman tak terduga di luar angkasa.",
+  "cast": [
+    "Chris Pratt",
+    "Chadwick Boseman",
+    "Zendaya"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc4174b"
+  },
+  "thumbnail": "https://example.com/poster13.jpg",
+  "title": "The Forsaken Island",
+  "duration": 120,
+  "genre": "Petualangan, Misteri",
+  "synopsis": "Sekelompok penjelajah pulau terlarang yang harus menghadapi makhluk purba dan rahasia yang tersembunyi selama ribuan tahun.",
+  "cast": [
+    "Matthew McConaughey",
+    "Naomi Watts",
+    "Idris Elba"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc4174c"
+  },
+  "thumbnail": "https://example.com/poster14.jpg",
+  "title": "Dark Horizons",
+  "duration": 120,
+  "genre": "Horor, Thriller",
+  "synopsis": "Tiga sahabat terjebak dalam rumah tua yang memiliki sejarah kelam dan menghadapi teror yang datang dari masa lalu.",
+  "cast": [
+    "Olivia Cooke",
+    "Sophie Turner",
+    "Timothée Chalamet"
+  ],
+  "ageRating": "17+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc4174d"
+  },
+  "thumbnail": "https://example.com/poster15.jpg",
+  "title": "Ancient Warriors",
+  "duration": 120,
+  "genre": "Aksi, Sejarah",
+  "synopsis": "Di dunia yang penuh dengan perang, seorang prajurit dari zaman kuno bangkit untuk melawan tirani dan menyatukan kerajaan yang terpecah.",
+  "cast": [
+    "Jason Momoa",
+    "Charlize Theron",
+    "Tom Hardy"
+  ],
+  "ageRating": "17+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc4174e"
+  },
+  "thumbnail": "https://example.com/poster16.jpg",
+  "title": "The Last Kingdom",
+  "duration": 120,
+  "genre": "Drama, Sejarah, Aksi",
+  "synopsis": "Setelah kejadian besar yang mengubah dunia, seorang pejuang bertahan untuk menjaga keamanan kerajaan terakhir yang tersisa.",
+  "cast": [
+    "Ben Barnes",
+    "Jessica Chastain",
+    "Clive Owen"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc4174f"
+  },
+  "thumbnail": "https://example.com/poster17.jpg",
+  "title": "City of Shadows",
+  "duration": 120,
+  "genre": "Thriller, Misteri",
+  "synopsis": "Seorang detektif yang baru pindah ke kota misterius harus memecahkan serangkaian pembunuhan yang sepertinya memiliki hubungan dengan rahasia gelap kota tersebut.",
+  "cast": [
+    "Joaquin Phoenix",
+    "Ruth Wilson",
+    "Oscar Isaac"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc41750"
+  },
+  "thumbnail": "https://example.com/poster18.jpg",
+  "title": "Rise of the Titans",
+  "duration": 120,
+  "genre": "Aksi, Fantasi",
+  "synopsis": "Dalam dunia yang hancur, titans bangkit untuk menghancurkan umat manusia, dan hanya sekelompok pahlawan yang dapat melawan mereka.",
+  "cast": [
+    "Henry Cavill",
+    "Gal Gadot",
+    "Vin Diesel"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc41751"
+  },
+  "thumbnail": "https://example.com/poster19.jpg",
+  "title": "Quantum Revolution",
+  "duration": 120,
+  "genre": "Fiksi Ilmiah, Aksi",
+  "synopsis": "Para ilmuwan menemukan cara untuk memanipulasi realitas dan waktu, tetapi eksperimen tersebut menyebabkan perubahan tak terduga di dunia.",
+  "cast": [
+    "Benedict Cumberbatch",
+    "Emily Blunt",
+    "Tom Hiddleston"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+},
+{
+  "_id": {
+    "$oid": "677a9d65aec600a3cbc41752"
+  },
+  "thumbnail": "https://example.com/poster20.jpg",
+  "title": "Echoes in Time",
+  "duration": 120,
+  "genre": "Drama, Misteri",
+  "synopsis": "Seorang penulis menemukan jejak-jejak yang mengarah pada misteri pembunuhan yang terjadi berabad-abad lalu, namun jejak itu tampaknya masih hidup hingga kini.",
+  "cast": [
+    "Rachel Weisz",
+    "Matthew McConaughey",
+    "Emma Stone"
+  ],
+  "ageRating": "13+",
+  "movieStatus": "Upcoming"
+}]
